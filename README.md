@@ -3,13 +3,6 @@
 <!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file#specifying-icons       -->
 
 
-<!-- 2. プロフィール -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-
-- 🧑‍🎓 I'm a university student
-<!-- - 🌱 I’m currently learning  -->
-<br>
-
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
