@@ -6,6 +6,9 @@
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+## 🔧 Recently using
+<img alt="Recently" src="https://skillicons.dev/icons?theme=dark&perline=7&i=kotlin,idea" />
+
 ## 🌱 Skills(basis or used)
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,java,python,html,css,javascript,react,matlab,blender,unreal,vscode,idea,clion,pycharm,webstorm,aws,azure,windows,ubuntu,raspberrypi," />
 
