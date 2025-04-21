@@ -10,7 +10,7 @@
 <img alt="Recently" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cs,vscode,visualstudio" />
 
 ## 🌱 Skills(basis or used)
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,java,python,html,css,javascript,react,matlab,blender,unreal,vscode,idea,clion,pycharm,webstorm,aws,azure,windows,ubuntu,raspberrypi,kotlin,idea" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,java,kotlin,python,html,css,javascript,react,matlab,blender,unreal,vscode,idea,clion,pycharm,webstorm,aws,azure,windows,ubuntu,raspberrypi" />
 
 [![moru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YukkiMoru&theme=react&show_icons=true)](https://github.com/YukkiMoru/github-readme-stats)
 
