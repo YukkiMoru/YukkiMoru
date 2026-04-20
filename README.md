@@ -9,7 +9,7 @@
 <!-- Icon choices: https://arc.net/l/quote/zizyykfh -->
 
 ## 🔧 Recently Using
-<img alt="Recently" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cs,vscode,visualstudio" />
+<img alt="Recently" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rust" />
 
 ## 🌱 Skills (Basics & Experience)
 <img alt="My Skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,java,kotlin,python,html,css,javascript,react,matlab,blender,unreal,vscode,idea,clion,pycharm,webstorm,aws,azure,windows,ubuntu,raspberrypi" />
